@@ -19,9 +19,9 @@ Future Plan:   Making or collecting utilities which will make easy to operate fo
 
 
 Designed &
-Developed by:  Rajesh Jakhal 
-Contact No.:   (+91) 9896956660
-               rajesh_jakhal@rediffmail.com
+Developed by:  Rajesh Jakhal (Rajesh Kumar)
+Contact No.:   (+91) 9818481432
+               rajesh.jakhal@gmail.com
 
 
 

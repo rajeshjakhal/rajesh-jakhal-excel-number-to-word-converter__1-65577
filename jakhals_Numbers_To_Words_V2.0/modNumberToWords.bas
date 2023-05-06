@@ -15,8 +15,8 @@ Option Explicit
 'Side Effect:   No side effect
 'Future Plan:   Making or collecting utilities which will make easy to
 '               operate for office workers. Helping friend can contact me.
-'Contact No.:   (+91) 9896956660
-'               rajesh_jakhal@rediffmail.com
+'Contact No.:   (+91) 9818481432
+'               rajesh.jakhal@gmail.com
 '+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Public Function mNumberToWords(num As Double) As String

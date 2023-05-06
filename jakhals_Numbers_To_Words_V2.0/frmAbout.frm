@@ -38,7 +38,7 @@ Begin VB.Form frmAbout
    Begin VB.Label Label8 
       Alignment       =   1  'Right Justify
       BackColor       =   &H00FFFFC0&
-      Caption         =   "Contact No.: (+91) 9896956660 E-mail:rajesh_jakhal@rediffmail.com "
+      Caption         =   "Contact No.: (+91) 9818481432 E-mail:rajesh.jakhal@gmail.com "
       BeginProperty Font 
          Name            =   "MS Sans Serif"
          Size            =   8.25
